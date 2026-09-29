@@ -126,8 +126,6 @@ Prometheus • Grafana
 
 ✅ Secure Credential Handling
 
-✅ Fully Automated End-to-End Flow
-
 ### How pipeline will look after deployment:
 - <b>CI pipeline to build and push</b>
 ![image](https://github.com/user-attachments/assets/20542d8b-0701-43ed-b2f8-82f8ed28d053)
